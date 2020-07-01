@@ -1,2 +1,2 @@
-# investment-app
-Tech 2335 "Freestyle Project"
+# portfolio-manager
+Investment Management Project
